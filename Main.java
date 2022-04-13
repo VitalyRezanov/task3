@@ -20,6 +20,7 @@ public class Main {
         System.out.println(p1.getFriendCount());
         p1.unfriend(p2);
         System.out.println(p1.getFriendCount());
+        //**********************************************
 
         CashRegister register = new CashRegister();
 
@@ -31,12 +32,26 @@ public class Main {
 
         System.out.println(change);
         System.out.println("Expected: 11.25");
+        //*********************************************
 
         Sheet sheet = new Sheet();
         sheet.cutInHalf();
         System.out.println(sheet.getName());
         System.out.println(sheet.getWidth());
         System.out.println(sheet.getHeight());
+        //*************************************************
+
+        StudentTester  studentTester = new StudentTester();
+        studentTester.addStudent("Barak");
+        studentTester.addStudent("Trump");
+        System.out.println(studentTester);
+
+        System.out.println(studentTester.getStudentOfIndex(0));
+        System.out.println(studentTester.getStudentOfIndex(1));
+
+        studentTester.getStudentOfName("Trump").addQuiz(2);
+
+        System.out.println(studentTester.getStudentOfName("Trump"));
 
     }
 }
