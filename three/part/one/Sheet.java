@@ -1,4 +1,4 @@
-package com.netcracker.tasksthree.partone;
+package com.netcracker.tasks.three.part.one;
 
 public class Sheet {
     private String name;

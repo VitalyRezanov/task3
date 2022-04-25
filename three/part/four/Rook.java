@@ -1,9 +1,9 @@
-package com.netcracker.tasksthree.partfour;
+package com.netcracker.tasks.three.part.four;
 
 import java.util.ArrayList;
 
-public class Bishop extends ChessPiece {
-    public Bishop(String position) {
+public class Rook extends ChessPiece{
+    public Rook(String position) {
         this.setPosition(position);
     }
 

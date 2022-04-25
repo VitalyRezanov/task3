@@ -1,4 +1,4 @@
-package com.netcracker.tasksthree.partfour;
+package com.netcracker.tasks.three.part.four;
 
 import java.time.LocalTime;
 

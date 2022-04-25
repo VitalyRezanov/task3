@@ -1,4 +1,4 @@
-package com.netcracker.tasksthree.partthree;
+package com.netcracker.tasks.three.part.three;
 
 public class SalariedEmployee extends Employee{
     private double annualSalary;

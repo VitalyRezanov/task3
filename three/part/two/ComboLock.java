@@ -1,4 +1,4 @@
-package com.netcracker.tasksthree.parttwo;
+package com.netcracker.tasks.three.part.two;
 
 public class ComboLock {
     private int secret1;

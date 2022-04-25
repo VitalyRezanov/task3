@@ -1,15 +1,15 @@
 package com.netcracker;
 
-import com.netcracker.tasksthree.partfour.*;
-import com.netcracker.tasksthree.partone.CashRegister;
-import com.netcracker.tasksthree.partone.Person;
-import com.netcracker.tasksthree.partone.Sheet;
-import com.netcracker.tasksthree.partthree.HourlyEmployee;
-import com.netcracker.tasksthree.partthree.Manager;
-import com.netcracker.tasksthree.partthree.SalariedEmployee;
-import com.netcracker.taskstwo.partthree.Employee;
-import com.netcracker.taskstwo.partthree.IntSequence;
-import com.netcracker.taskstwo.partthree.Measurable;
+import com.netcracker.tasks.three.part.four.*;
+import com.netcracker.tasks.three.part.one.CashRegister;
+import com.netcracker.tasks.three.part.one.Person;
+import com.netcracker.tasks.three.par.tone.Sheet;
+import com.netcracker.tasks.three.part.three.HourlyEmployee;
+import com.netcracker.tasks.three.part.three.Manager;
+import com.netcracker.tasks.three.part.three.SalariedEmployee;
+import com.netcracker.tasks.two.part.three.Employee;
+import com.netcracker.tasks.two.part.three.IntSequence;
+import com.netcracker.tasks.two.part.three.Measurable;
 
 import java.util.*;
 
